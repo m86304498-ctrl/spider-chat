@@ -1,0 +1,14 @@
+{
+  "name": "spider-chat-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple Persian multiplayer chat room using Node.js and Socket.IO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
